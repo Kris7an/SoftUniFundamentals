@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\bin\Debug\netcoreapp3.1\BiscuitFactory.exe
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\bin\Debug\netcoreapp3.1\BiscuitFactory.deps.json
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\bin\Debug\netcoreapp3.1\BiscuitFactory.runtimeconfig.json
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\bin\Debug\netcoreapp3.1\BiscuitFactory.runtimeconfig.dev.json
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\bin\Debug\netcoreapp3.1\BiscuitFactory.dll
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\bin\Debug\netcoreapp3.1\BiscuitFactory.pdb
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\obj\Debug\netcoreapp3.1\BiscuitFactory.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\obj\Debug\netcoreapp3.1\BiscuitFactory.AssemblyInfo.cs
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\obj\Debug\netcoreapp3.1\BiscuitFactory.dll
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\obj\Debug\netcoreapp3.1\BiscuitFactory.pdb
+C:\Users\krist\source\repos\ExamPrep\BiscuitFactory\obj\Debug\netcoreapp3.1\BiscuitFactory.csprojAssemblyReference.cache

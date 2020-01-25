@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.exe
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.deps.json
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.runtimeconfig.json
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.runtimeconfig.dev.json
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.dll
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.pdb
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.AssemblyInfo.cs
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.dll
+C:\Users\krist\source\repos\ExamPrep\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.pdb

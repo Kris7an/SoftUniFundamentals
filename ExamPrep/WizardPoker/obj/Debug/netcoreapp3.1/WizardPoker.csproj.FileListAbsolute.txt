@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\bin\Debug\netcoreapp3.1\WizardPoker.exe
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\bin\Debug\netcoreapp3.1\WizardPoker.deps.json
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\bin\Debug\netcoreapp3.1\WizardPoker.runtimeconfig.json
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\bin\Debug\netcoreapp3.1\WizardPoker.runtimeconfig.dev.json
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\bin\Debug\netcoreapp3.1\WizardPoker.dll
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\bin\Debug\netcoreapp3.1\WizardPoker.pdb
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\obj\Debug\netcoreapp3.1\WizardPoker.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\obj\Debug\netcoreapp3.1\WizardPoker.AssemblyInfo.cs
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\obj\Debug\netcoreapp3.1\WizardPoker.dll
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\obj\Debug\netcoreapp3.1\WizardPoker.pdb
+C:\Users\krist\source\repos\ExamPrep\WizardPoker\obj\Debug\netcoreapp3.1\WizardPoker.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.exe
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.deps.json
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.runtimeconfig.json
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.runtimeconfig.dev.json
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.dll
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.pdb
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.AssemblyInfo.cs
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.dll
+C:\Users\krist\source\repos\ExamPrep\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.pdb

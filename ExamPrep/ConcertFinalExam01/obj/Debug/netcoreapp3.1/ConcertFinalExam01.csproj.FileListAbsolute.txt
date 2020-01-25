@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\bin\Debug\netcoreapp3.1\ConcertFinalExam01.exe
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\bin\Debug\netcoreapp3.1\ConcertFinalExam01.deps.json
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\bin\Debug\netcoreapp3.1\ConcertFinalExam01.runtimeconfig.json
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\bin\Debug\netcoreapp3.1\ConcertFinalExam01.runtimeconfig.dev.json
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\bin\Debug\netcoreapp3.1\ConcertFinalExam01.dll
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\bin\Debug\netcoreapp3.1\ConcertFinalExam01.pdb
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\obj\Debug\netcoreapp3.1\ConcertFinalExam01.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\obj\Debug\netcoreapp3.1\ConcertFinalExam01.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\obj\Debug\netcoreapp3.1\ConcertFinalExam01.AssemblyInfo.cs
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\obj\Debug\netcoreapp3.1\ConcertFinalExam01.dll
+C:\Users\krist\source\repos\ExamPrep\ConcertFinalExam01\obj\Debug\netcoreapp3.1\ConcertFinalExam01.pdb
